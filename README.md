@@ -20,7 +20,7 @@ The end goal of this task would be to identify opportunities to increase the occ
 
 The basic analysis of data provides insights into the number of planes with more than 100 seats, how the number of tickets booked and total amount earned changed over time, and the average fare for each aircraft with different fare conditions.
 
-![][image1]
+![][https://github.com/Sandy752/Airline/blob/main/Screenshot/1.png]
 
 Upon analysis of the chart, we observe that the number of tickets booked exhibits a gradual increase from June 22nd to July 7th, followed by a relatively stable pattern from July 8th until August, with a noticeable peak in ticket bookings where the highest number of tickets were booked on a single day.
 

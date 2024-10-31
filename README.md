@@ -1,3 +1,19 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Sandy752/Airline?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Sandy752/Airline?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/Sandy752/Airline?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Sandy752/Airline?color=red&style=for-the-badge)
+
+
+# Airline Data Analysis
+
+## Table of contents
+* [Business Problem](#business-problem)
+* [Main Challenges](#main-challenges)   
+* [Objectives](#objectives)
+* [Basic Analysis](#basic-analysis)
+* [Analyzing occupancy rate](#analyzing-occupancy-rate)
+* [Conclusion](#Conclusion)
+
 # **Business Problem**
 
 Our company operates a diverse fleet of aircraft ranging from small business jets to medium-sized machines. We have been providing high-quality air transportation services to our clients for several years, and our primary focus is to ensure a safe, comfortable, and convenient journey for our passengers.However, we are currently facing challenges due to several factors such as stricter environmental regulations, higher flight taxes, increased interest rates, rising fuel prices, and a tight labor market resulting in increased labor costs. As a result, the company’s profitability is under pressure, and they are seeking ways to address this issue. To tackle this challenge, they are looking to conduction analysis of their database to find way to increase their occupancy rate, which can help boost the average profit earned per seat

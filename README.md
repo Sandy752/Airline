@@ -20,31 +20,31 @@ The end goal of this task would be to identify opportunities to increase the occ
 
 The basic analysis of data provides insights into the number of planes with more than 100 seats, how the number of tickets booked and total amount earned changed over time, and the average fare for each aircraft with different fare conditions.
 
-![image1](https://github.com/Sandy752/Airline/blob/main/Screenshot/1.png)
+![image1](https://github.com/Sandy752/Airline/blob/main/Screenshot/6.png)
 
 Upon analysis of the chart, we observe that the number of tickets booked exhibits a gradual increase from June 22nd to July 7th, followed by a relatively stable pattern from July 8th until August, with a noticeable peak in ticket bookings where the highest number of tickets were booked on a single day.
 
-![][image2]
+![image2](https://github.com/Sandy752/Airline/blob/main/Screenshot/2.png)
 
 Therefore, we can see a similar trend in the total revenue earned by the company throughout the analyzed time period. These findings suggest that further exploration of the factors contributing to the  
 peak in ticket bookings may be beneficial for increasing overall revenue and optimizing operational strategies.
 
-![][image3]
+![image3](https://github.com/Sandy752/Airline/blob/main/Screenshot/3.png)
 
 We were able to generate a bar graph to graphically compare the data after we completed the computations for the average costs associated with different fare conditions for each aircraft. The graph Figure 3 shows data  
 for three types of fares: business, economy, and comfort. It is worth mentioning that the comfort class is available on only one aircraft, the 773\. The CN1 and CR2 planes, on the other hand, only provide the economy class
 
-![][image4]
+![image4](https://github.com/Sandy752/Airline/blob/main/Screenshot/5.png)
 
 # **Analyzing occupancy rate**
 
 Airlines must thoroughly analyze their revenue streams in order to maximize profitability. The overall income per year and average revenue per ticket for each aircraft are important metrics to consider. Airlines may use this information to determine which aircraft types and itineraries generate the most income and alter their operations appropriately. This research can also assist in identifying potential for pricing optimization and allocating resources to more profitable routes. The below figure 4 shows the total revenue, total tickets and average revenue made per ticket for each aircraft. The aircraft with the highest total revenue is SU9 and from the figure 3 it can be seen that the price of the business class and economy class is the lowest in this aircraft. This can be the reason that most of the people bought this aircraft ticket as its cost is less compared to others. The aircraft with least total revenue is CN1, and the possible reason behind this is it only offers economy class with very least price and it might be because of its poor conditions or less facilities.
 
-![][image5]
+![image5](https://github.com/Sandy752/Airline/blob/main/Screenshot/4.png)
 
 The average occupancy per aircraft is another critical number to consider. Airlines may measure how successfully they fill their seats and discover chances to boost occupancy rates by using this metric. Higher occupancy rates can help airlines increase revenue and profitability while lowering operational expenses associated with vacant seats. Pricing strategy, airline schedules, and customer satisfaction are all factors that might influence occupancy rates. The below figure 5 shows the average booked seats from the total number of seats for each aircraft. The occupancy rate is calculated by dividing the booked seats by the total number of seats. Higher occupancy rate means the aircraft seats are more booked and only few seats are left unbooked.
 
-![][image6]
+![image6](https://github.com/Sandy752/Airline/blob/main/Screenshot/3.png)
 
 Airlines can assess how much their total yearly turnover could improve by providing all aircraft a 10% higher occupancy rate to further examine the possible benefits of raising occupancy rates. This research can assist airlines in determining the financial impact of boosting occupancy rates and if it is a realistic strategy. Airlines may enhance occupancy rates and revenue while delivering greater value and service to consumers by optimizing pricing tactics and other operational considerations. The below figure shows how the total revenue increased after increasing the occupancy rate by 10% and it gives the result that it will increase gradually so airlines should be more focused on the pricing strategies.
 
